@@ -1,0 +1,50 @@
+head {
+      color: purple;
+}
+header {
+      color:Tomato;
+      font-style: italic;
+      text-align: center;
+      font-family: fantasy;
+      font-size: 150%;
+}
+body {
+      background-color: purple;
+      padding-top: 50px;
+      padding-right: 30px;
+      padding-bottom: 50px;
+      padding-left: 80px;
+      outline-style: groove;
+      outline-color: pink;
+      outline-width: thick;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 100%;
+      border-top-style: dotted;
+      border-right-style: solid;
+      border-bottom-style: dotted;
+      border-left-style: solid;
+      border-width: thick;
+      border-color: black;
+}
+img {
+      border-style: solid;
+      border-width: 3px;
+      border-color: blue;
+      margin: auto;
+      width: 30%;
+      height: 30%
+      padding: 10px;
+}
+ul {
+      list-style-type: square;
+}
+footer {
+      color: green;
+      font-style: oblique;
+      font-size: 40px;
+      text-align: center;
+}
+article {
+      color: white;
+      outline-style: double;
+}
