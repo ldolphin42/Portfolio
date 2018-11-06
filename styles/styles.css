@@ -3,9 +3,8 @@ head {
 }
 header {
       color:Tomato;
-      font-style: italic;
       text-align: center;
-      font-family: fantasy;
+      font-family: 'Kumar One Outline', cursive;
       font-size: 150%;
 }
 body {
@@ -32,7 +31,7 @@ img {
       border-color: blue;
       margin: auto;
       width: 30%;
-      height: 30%
+      height: 30%;
       padding: 10px;
 }
 ul {
@@ -47,4 +46,10 @@ footer {
 article {
       color: white;
       outline-style: double;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border: solid;
 }
