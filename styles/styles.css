@@ -53,3 +53,12 @@ article {
   justify-content: space-around;
   border: solid;
 }
+li:hover {
+  font-size: 150%;
+}
+footer:hover {
+  background-color: silver;
+}
+li:nth-last-child(1){
+  color: tomato;
+}
