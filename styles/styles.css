@@ -55,9 +55,14 @@ article {
 }
 li:hover {
   font-size: 150%;
+  transition-property: font-size;
+  transition-duration: 4s;
+  transition-delay: 2s;
 }
 footer:hover {
-  background-color: silver;
+  border: 2px solid purple;
+  transition-property: border;
+  transition: 4s;
 }
 li:nth-last-child(1){
   color: tomato;
